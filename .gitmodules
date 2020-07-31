@@ -1,0 +1,6 @@
+[submodule "TD3"]
+	path = TD3
+	url = git@github.com:willwhitney/dyne-td3.git
+[submodule "action-embedding"]
+	path = action-embedding
+	url = git@github.com:willwhitney/action-embedding.git
